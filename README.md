@@ -1,4 +1,4 @@
-**Point Blank Launcher for Securly/More**
+# Point Blank Launcher for Securly/More
 
 This was made with the help of SprinksMC(Bypassi), as this project is in beta, expect bugs, and this was not made for every extension. If you have 
 Securly => https://tinyurl.com/bettergoofcurly (You may have to reload) 
